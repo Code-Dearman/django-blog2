@@ -51,6 +51,10 @@ body {
     height: auto;
 }
 
+.profile-image {
+    width: 75%;
+}
+
 .author {
     color: white;
     margin: 4px;
